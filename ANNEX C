@@ -1,0 +1,10 @@
+ANNEX C: Token Definition.
+
+# Annex C is to provide a specific description of the VNU token.
+
+
+The VNU Token is allows Alice to manage a token-based venue. Each token shall represent one seat in the venue, and where the building on the venue will be financed by pre-sale of these seats. 
+The VNU Token is based on based on the Ethereum blockchain, where all VNU tokens shall be issued by Alice.
+The technology will allow seatholders to grant permissions for a limited time to others by leasing their seat. 
+This will be made using a time-lock capability where the person who wishes to lease the seat for a specific venue (a Britney Spears concert) will lock X ETHs until it returns the token that represents the seat to the holder.
+The Venue is located at 5 Spring Drive, Malibu, California. It has 5,000 seats, all made of pleather. Each seat is approximately 2 feet wide.
