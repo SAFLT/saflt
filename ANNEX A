@@ -1,0 +1,62 @@
+ANNEX A: Deliverables and Acceptance Tests.
+
+# For our sample project, Alice is the team leader and Bob is the website developer.
+# Alice hires Bob to create a website for the token pre-sale. The reward is 5ETH.
+# The following example is how such Annex should be phrased.
+
+Project Scope:
+	Development of a website for a token pre-sale event of the VNU token. A token to crowdfund a venue which shall hold concerts and where each VNU token will represent one seat at the venue. 
+
+	Bob shall develop a responsive website, based on WordPress, and using a dark theme, to present the VNU pre-sale and help organize the funds.
+
+Stage 1: Specifications.
+
+	November 1st, 2018. Bob will submit a detailed specification document which shall outline: (1) the pages which shall appear on the website; (2)the functionality of the website; (3) th bmain features which shall exist (mailing list, buy tokens, upload KYC information, etc). 
+
+	November 10th, 2018. Alice will review and either approve Bob’s specifications or amend them for further work. 
+
+	November 15th, 2018. Bob will submit an updated specification based on Alice’s input.
+
+	November 20, 2018. Alice will either reject the specification, compensating Bob only for Stage 1, or accept. 
+
+Stage 2: Design & Mock-Ups.
+
+	December 1st, 2018. Bob will submit a mock-up of all relevant screens for Alice’s approval.
+
+	December 5th, 2018. Alice will review and either approve Bob’s mock-ups or amend them for further work.
+
+	December 10th, 2018. Bob will submit an update mock-up based on Alice’s input.
+
+	December 15th, 2018. Alice will either reject the mock-ups, compensating Bob for Stages 1&2 or accept.
+
+Stage 3: Beta Version.
+
+	January 1st, 2019. Bob will set up the website on a temporary server for Alice’s review.
+
+	January 15th, 2019. Alice will submit a full list of errors.
+
+	January 25th, 2019. Bob will fix all errors submitted.
+
+Stage 4: Content.
+
+	February 1st, 2019. Alice will send Bob all contents to be posted on each page, including images and texts.
+
+	February 5th, 2019. Bob will insert all texts.
+
+
+Acceptance Tests.
+
+# please note that these tests are “pass of fail”; meaning that if any acceptance tests fails, Bob has 
+# a few days to re-write the code, but after which, the agreement defaults.
+
+Alice should be able to perform the following activities with the website: 
+
+	Register to the newsletter;
+	Send an email to all newsletter recipients;
+	Purchase tokens;
+	Upload KYC information for the token sale event;
+	Show a counter of active token purchases;
+	Show boxes of content from social media.
+
+
+	
