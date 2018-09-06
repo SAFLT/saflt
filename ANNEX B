@@ -1,0 +1,19 @@
+Annex B: Compensation Scheme.
+
+# The purpose of Annex B is to set up the compensation scheme. Meaning, both how and 
+# the payment is made. This means that we need to define specific payments and that we
+# need to also address the risks of an unsuccessful funding. 
+
+
+Definitions:
+
+	Successful Funding: meaning, the raising of at least 500ETH via the Token Generating Event, or the participation of at least 500 unique ETH addresses in the Token Generating Event, whichever is earlier.
+
+	Token Generating Event: meaning, the sale of ETH tokens by Alice to the public based on the whitepaper listed at http://vnutoken.io/whitepaper.pdf, which shall be made no later than March 1st, 2019.
+
+Upon a Successful Funding, Alice shall pay Bob a sum of 5ETH, as well as 5,000 VNU tokens, or the equivalent of USD5,000 in ETH, whichever is higher (the “Compensation).
+
+Should Bob only perform Stage 1 in Annex A, the sum shall be 15% of the Compensation.
+
+Should Bob perform Stages 1 and 2 in Annex A, the sum shall be 35% of the Compensation.
+
